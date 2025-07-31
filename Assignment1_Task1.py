@@ -3,8 +3,8 @@
 ########################################################
 #Taking numbers from the user
 
-number1 = int(input("Enter the first number: ")
-number2 = int(input("Enter the second number: ")
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
 
 #Performing arthmetic operations
 
@@ -30,5 +30,4 @@ def multiplication(num1, num2):
 addition(num1=number1, num2=number2)
 subtraction(num1=number1, num2=number2)
 divide(num1=number1, num2=number2)
-mulitplication(num1=number1, num2=number2)
-
+multiplication(num1=number1, num2=number2)
